@@ -1,6 +1,6 @@
 Hi, My name is Dimitris Galanis
 =================================
-I have a BSc degree in [Computer Science](https://www.csd.auth.gr/en/) from the Aristotle University of Thessaloniki.Hi 👋 My name is Dimitris Galanis
+I have a BSc degree in [Computer Science](https://www.csd.auth.gr/en/) from the Aristotle University of Thessaloniki.
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [dimitriospgalanis@gmail.com](mailto:dimitriospgalanis@gmail.com)
