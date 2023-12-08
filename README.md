@@ -4,7 +4,7 @@ I have a BSc degree in [Computer Science](https://www.csd.auth.gr/en/) from the 
 
 *   🌍  I'm based in Greece
 *   ✉️  You can contact me at [dimitriospgalanis@gmail.com](mailto:dimitriospgalanis@gmail.com)
-*   🧠  I'm learning Rust, Docker, AWS Cloud
+*   🧠  I'm learning/practicing DSA, Docker, AWS Cloud
   
   ### Languages and Tools: 
 <p align="left">
